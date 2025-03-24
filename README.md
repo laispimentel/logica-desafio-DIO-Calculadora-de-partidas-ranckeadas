@@ -28,11 +28,11 @@ Para executar este código, você precisará de um ambiente Node.js instalado. S
 
 ## Exemplo de Saída
 
-top: O herói tem um saldo de 101 e está no nível Imortal
-mid: O herói tem um saldo de 5 e está no nível Ferro
-jungle: O herói tem um saldo de 20 e está no nível Bronze
-ADC: O herói tem um saldo de 80 e está no nível Ouro
-suport: O herói tem um saldo de 3 e está no nível Ferro
+- top: O herói tem um saldo de 101 e está no nível Imortal
+- mid: O herói tem um saldo de 5 e está no nível Ferro
+- jungle: O herói tem um saldo de 20 e está no nível Bronze
+- ADC: O herói tem um saldo de 80 e está no nível Ouro
+- suport: O herói tem um saldo de 3 e está no nível Ferro
 
 ## Contribuição
 
